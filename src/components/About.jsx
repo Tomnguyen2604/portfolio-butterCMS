@@ -28,7 +28,8 @@ const About = () => {
                             <p>
                                 {" "}
                                 I am recent graduated student from SAIT, with
-                                the passion in creating
+                                the passion in creating beautiful website and
+                                app in the future
                             </p>
                         </div>
                     </div>
